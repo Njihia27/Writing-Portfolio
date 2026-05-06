@@ -32,13 +32,13 @@ and global economic indicators.
 ## Implementation Challenges
 
 - *Data Quality and Integration*:
--  Banks often struggle with fragmented data across legacy systems.
+Banks often struggle with fragmented data across legacy systems.
   
 - *Regulatory Compliance*:
--  Models must be explainable (Explainable AI / XAI) to satisfy regulators.
+Models must be explainable (Explainable AI / XAI) to satisfy regulators.
   
 - *Talent Shortage*:
--  Need for professionals who understand both finance and data science.
+Need for professionals who understand both finance and data science.
 
 ## Best Practices for Implementation
 
