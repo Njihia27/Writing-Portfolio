@@ -27,7 +27,7 @@ I am a skilled freelance content writer with a strong ability to produce high-qu
 #### 1. SEO Article
 
 *Emerging Tech Trends in Finance 2026*  
-[View Full Article](Samples/SEO-article.md)
+[View Full Article]()
 
 Well-researched SEO-optimized article covering key 2026 finance trends including AI, DeFi, CBDCs, and Blockchain.
   
