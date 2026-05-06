@@ -53,6 +53,9 @@ AI is not replacing human risk managers — it is empowering them with better to
 Banks that successfully integrate AI into their risk management frameworks will gain significant competitive advantage in the evolving financial landscape.
 
 ---
-Technical Guide  
-By Peter N. 
+
+Technical Guide 
+
+By Peter N.
+
 May 2026.
