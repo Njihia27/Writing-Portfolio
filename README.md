@@ -20,25 +20,33 @@ I am a skilled freelance content writer with a strong ability to produce high-qu
 
 ### Featured Writing Samples
 
-#### 1. Technical Writing
-- [Sample Technical Article](/samples/technical-guide.md) 
-  Explaining emerging tech trends in simple terms
-
 #### 1. SEO Article
 
 *Emerging Tech Trends in Finance 2026*  
 [View Full Article](Samples/seo-article.md)
 
 Well-researched SEO-optimized article covering key 2026 finance trends including AI, DeFi, CBDCs, and Blockchain.
-  
+
+#### 2. Technical Writing
+
+*Technical Guide Sample*  
+[View Full Article](Samples/technical-writing.md)
+
+Clear explanation of complex technical concepts in simple, accessible language.
+
 #### 3. Copywriting
-- [Landing Page Copy](/samples/copywriting-sample.md)  
-  Persuasive sales copy for product pages
+
+*Product Landing Page Copy*  
+[View Full Article](Samples/copywriting-sample.md)
+
+Persuasive and conversion-focused sales copy for product pages.
 
 #### 4. Research & Business Writing
-- [Market Research Summary](/samples/research-report.md)
 
-(More samples will be added regularly)
+*Market Research Summary*  
+[View Full Article](Samples/research-summary.md)
+
+In-depth research presented in a professional business format.
 
 ---
 
