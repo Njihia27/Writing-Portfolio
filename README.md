@@ -25,9 +25,8 @@ I am a skilled freelance content writer with a strong ability to produce high-qu
   Explaining emerging tech trends in simple terms
 
 #### 1. SEO Article
-- Emerging Tech Trends in Finance 2026
-- Samples/SEO-article.md  
-  Well-researched SEO-optimized article covering key 2026 finance trends
+- *[Emerging Tech Trends in Finance 2026](Samples/SEO-article.md)*  
+  Well-researched SEO-optimized article covering key 2026 finance trend
   
 #### 3. Copywriting
 - [Landing Page Copy](/samples/copywriting-sample.md)  
