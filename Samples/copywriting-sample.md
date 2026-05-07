@@ -4,7 +4,7 @@
 
 In a world of complex banking apps and overwhelming choices, SmartBank AI delivers clarity, confidence, and results.
 
-*The intelligent financial companion designed for ambitious professionals and growing businesses.*
+The intelligent financial companion designed for ambitious professionals and growing businesses.
 
 ## Why SmartBank AI Stands Apart
 
