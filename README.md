@@ -77,5 +77,4 @@ Feel free to reach out on UPWORK [https://www.upwork.com/freelancers/~01acf1302f
 
 ---
 
-## Last Updated: May 2026
-## Portfolio location: 
+## Last Updated: May 2026. 
