@@ -70,6 +70,14 @@ In-depth research presented in a professional business format.
 - Consistent quality
 
 ---
+### Open for Feedback & Peer Review
+
+I actively welcome constructive feedback to improve my work. 
+
+- Feel free to open an *Issue* with your comments
+- Or leave feedback directly on any sample
+- All reviews and revisions will be documented here
+Open to collaboration and peer reviews!
 
 ### Get In Touch
 Interested in working together?
